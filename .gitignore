@@ -1,0 +1,15 @@
+# Archivos compilados
+*.class
+
+# Configuración de IDEs
+.classpath
+.project
+.settings/
+
+# Archivos de compilación
+target/
+bin/
+
+# Archivos temporales
+*.log
+*.tmp
